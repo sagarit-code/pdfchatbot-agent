@@ -1,6 +1,4 @@
-Alright, I’ll write you a **clean, sane README section** that explains exactly what this project does *without hype*, *without lying*, and *without confusing future-you*. You can paste this directly into your `README.md`.
 
-I’ll assume this is **v0.1 of a PDF RAG chatbot**.
 
 ---
 
@@ -92,11 +90,5 @@ PDF → Pages → Text Chunks → Embeddings → Vector Store → Retrieval
 * Build a conversational chat interface
 
 ---
-
-If you want, next I can:
-
-* tighten this into a **production-grade README**
-* add an **Architecture diagram section**
-* or write a **“Why this exists” / design philosophy** section
 
 Just say the word.
